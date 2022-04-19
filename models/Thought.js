@@ -7,7 +7,7 @@ const ThoughtSchema = new Schema(
   {
     thoughtText: {
       type: String,
-      required: true,
+      required: "You have to type something!",
       minlength: 1,
       maxlength: 280,
     },
@@ -18,7 +18,7 @@ const ThoughtSchema = new Schema(
     },
     username: {
       type: String,
-      required: true,
+      required: "Username is required!",
     },
     // call ReactionSchema
     reactions: [ReactionSchema],
@@ -44,14 +44,14 @@ const ReactionSchema = new Schema(
     },
     reactionBody: {
       type: String,
-      required: true,
+      required: "Type something- your thoughts are worthy!",
       minlength: 1,
       maxlength: 280,
       trim: true,
     },
     username: {
       type: String,
-      required: true,
+      required: "Username is required!",
     },
     createdAt: {
       type: Date,
