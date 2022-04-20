@@ -44,6 +44,14 @@ const userController = {
       .then((dbThoughtData) => res.json(dbThoughtData))
       .catch((err) => res.status(400).json(err));
   },
+
+  // update user
+
+  // delete user
+
+  // add friend
+
+  // delete friend
 };
 
 // export user-controller
