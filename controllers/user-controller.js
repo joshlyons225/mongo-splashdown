@@ -62,6 +62,17 @@ const userController = {
   },
 
   // delete user
+  deleteUser({ params }, res) {
+    User.findOneAndDelete({ _id: params.id })
+      .then((dbThoughtData) => {
+        if (!dbThoughtData) {
+          res.status(404).json({ message: "No user fund with that ID!" });
+          return;
+        }
+        res.json(dbThoughtData);
+      })
+      .catch((err) => res.status(400).json(err));
+  },
 
   // add friend
 
