@@ -37,12 +37,12 @@ This project was developed under the GNU license.
 
 ## Screenshots
 
-![Screenshot (18)](https://user-images.githubusercontent.com/95392565/158502828-0087519f-5e61-4d6e-be8e-c457118a6c43.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/95392565/165002827-d62ab601-c0db-455c-a9f8-1bfb4f323840.png)
 
-![Screenshot (19)](https://user-images.githubusercontent.com/95392565/158502832-8a6f5dd7-760c-439f-87db-c6fc3f2b3954.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/95392565/165002852-8f83cae7-f8c7-47ea-a208-6f153feef385.png)
 
-![Screenshot (20)](https://user-images.githubusercontent.com/95392565/158502839-c878ce79-2f91-4360-b51c-628a61a82f67.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/95392565/165002866-86e35383-6b29-440f-a6d6-566e4884e097.png)
 
 ## Walkthrough Video
 
-https://drive.google.com/file/d/1wG6lBIX0bfKCMiUfI0Az8JqMu_RheePT/view
+https://drive.google.com/file/d/1j_ZuJuY5rYo65S5H_yHvhR2hJC0zJ2HW/view
