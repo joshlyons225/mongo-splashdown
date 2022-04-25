@@ -1,5 +1,4 @@
 // import models
-const res = require("express/lib/response");
 const { User } = require("../models");
 
 // set User controller
